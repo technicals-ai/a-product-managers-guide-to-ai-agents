@@ -1,1 +1,1 @@
-# a-product-managers-guite-to-ai-agents
+# a-product-managers-guide-to-ai-agents
